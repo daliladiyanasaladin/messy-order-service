@@ -1,4 +1,11 @@
-com\example\orderservice\Order.class
-com\example\orderservice\OrderRepository.class
+com\example\orderservice\dto\OrderRequest.class
+com\example\orderservice\model\OrderStatus.class
 com\example\orderservice\OrderServiceApplication.class
-com\example\orderservice\OrderController.class
+com\example\orderservice\dto\OrderItemDto.class
+com\example\orderservice\dto\OrderResponse.class
+com\example\orderservice\model\CustomerType.class
+com\example\orderservice\repository\OrderRepository.class
+com\example\orderservice\controller\OrderController.class
+com\example\orderservice\model\OrderItem.class
+com\example\orderservice\service\OrderService.class
+com\example\orderservice\model\Order.class
